@@ -3,7 +3,7 @@
 ## Project History & Maintenance
 Hercules was originally developed by researchers at Carnegie Mellon University (CMU). The original source code and theoretical foundations were established by the CMU team. 
 
-Since 2023, this repository has been maintained, modernized, and documented by Clifford (Chu-Han) Yen under the supervision of Prof. Ertugrul Taciroglu at UCLA CEE. The current maintenance efforts focus on code modernization, providing comprehensive documentation, and ensuring compatibility with modern computing environments.
+Since 2018, this repository has been maintained, modernized, and documented by Wenyang Zhang and Clifford (Chu-Han) Yen. The current maintenance efforts focus on code modernization, providing comprehensive documentation, and ensuring compatibility with modern computing environments.
 
 ## Authors and Acknowledgments
 Please refer to the `AUTHORS.txt` file for the complete list of the original CMU developers. For issues related to the current repository state or documentation, please contact the current maintainer.
